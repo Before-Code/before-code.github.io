@@ -22,7 +22,7 @@ const Vission = () => {
                 describes their ideas to
               </p>
               <p className="text-base md:text-xl font-normal text-[#252F40]">
-                Casegen Casegen will generate use cases and
+                Casegen will generate use cases and
                 supporting requirements
               </p>
             </div>

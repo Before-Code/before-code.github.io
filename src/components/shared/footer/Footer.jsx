@@ -40,9 +40,9 @@ const Footer = () => {
                 Los Angeles, Santa Clarita
               </Link>
               <div className="nav_social">
-                <Link className="block">
+                {/* <Link className="block">
                   <img src={LinkeDinIcon} alt="icon" />
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>

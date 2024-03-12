@@ -48,7 +48,7 @@ const Hero = () => {
                       <ReactPlayer
                         style={{ borderRadius: "50px" }}
                         width={650}
-                        url="https://www.youtube.com/watch?v=LXb3EKWsInQ"
+                        url="https://www.youtube.com/watch?v=PWfgZYoCg8I"
                       />
                     </div>
                   ) : (
