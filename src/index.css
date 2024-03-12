@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .main_container {
+        @apply max-w-[1420px] w-full mx-auto px-5
+    }
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+.modal-video-movie-wrap{
+    padding: 0px !important;
+}
+
+.modal-video-inner{
+    width: 0px !important;
+}
