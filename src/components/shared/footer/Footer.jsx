@@ -36,7 +36,7 @@ const Footer = () => {
               </Link>
               <Link className="text-base font-normal text-white flex gap-4 pb-3">
                 <img src={sendIcon} alt="icon" />
-                Los Angeles, Santa Clarita
+                Santa Clarita, CA
               </Link>
               <div className="nav_social">
                 {/* <Link className="block">
