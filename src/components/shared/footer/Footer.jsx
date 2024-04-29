@@ -50,7 +50,7 @@ const Footer = () => {
 
         <div className="copyright py-[30px]">
           <p className="text-sm font-normal text-white text-center">
-            © 68000 Inc. All rights reserved.
+            © Before Code, Inc. All rights reserved.
           </p>
         </div>
       </div>
