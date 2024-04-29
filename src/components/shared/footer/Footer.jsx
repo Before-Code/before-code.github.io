@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import footerLogo from "../../../assets/footer-nav.svg";
-import LinkeDinIcon from "../../../assets/linkedin.svg";
 import messageIcon from "../../../assets/message-icon.svg";
 import sendIcon from "../../../assets/send-icon.svg";
 const Footer = () => {
