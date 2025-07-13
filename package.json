@@ -2,7 +2,7 @@
   "name": "verifyx",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://beforeforecodeinc.com",
+  "homepage": "https://before-code.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
